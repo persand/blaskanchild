@@ -1,0 +1,11 @@
+/*
+Theme Name:     Blaskan Child
+Theme URI:      http://blaskan.net
+Description:    Child theme for the Blaskan theme 
+Author:         Per Sandström
+Author URI:     http://www.helloper.com/
+Template:       blaskan
+Version:        1.0
+*/
+
+@import url("../blaskan/style.css");
